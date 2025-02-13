@@ -2,10 +2,10 @@
 
 # Состав проекта 
 
-- PromoMashWork - бэканд (net8.0)
+- PromoMashWork - backend (net8.0)
 - PromoMashUI - фронт (Angular v19)
 
-## PromoMashWork - бэканд
+## PromoMashWork - backend
 CountryApi - web api по странам и городам
 
 CountryDataAccess - контракт сущностей по странам и городам
