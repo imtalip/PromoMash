@@ -1,0 +1,11 @@
+<h1>Country</h1>
+
+<p>Country Select.</p>
+
+<hr>
+
+<p class="card-text">
+	ng-select type
+</p>
+
+<ng-select class= "ng-select-default" [items]="people$ | async" bindLabel="name" autofocus bindValue="id" [(ngModel)]="selectedPersonId"> </ng-select>

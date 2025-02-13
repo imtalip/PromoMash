@@ -361,3 +361,84 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
+
+# Compiled output
+/PromoMashUI/PromoMashCountryClient/dist
+/PromoMashUI/PromoMashCountryClient/tmp
+/PromoMashUI/PromoMashCountryClient/out-tsc
+/PromoMashUI/PromoMashCountryClient/bazel-out
+
+
+# Node
+/PromoMashUI/PromoMashCountryClient/node_modules/
+npm-debug.log
+yarn-error.log
+
+# IDEs and editors
+/PromoMashUI/PromoMashCountryClient/.idea/
+/PromoMashUI/PromoMashCountryClient/.project
+/PromoMashUI/PromoMashCountryClient/.classpath
+/PromoMashUI/PromoMashCountryClient/.c9/
+/PromoMashUI/PromoMashCountryClient/*.launch
+/PromoMashUI/PromoMashCountryClient/.settings/
+/PromoMashUI/PromoMashCountryClient/*.sublime-workspace
+
+# Visual Studio Code
+/PromoMashUI/PromoMashCountryClient/.vscode/*
+/PromoMashUI/PromoMashCountryClient/!.vscode/settings.json
+/PromoMashUI/PromoMashCountryClient/!.vscode/tasks.json
+/PromoMashUI/PromoMashCountryClient/!.vscode/launch.json
+/PromoMashUI/PromoMashCountryClient/!.vscode/extensions.json
+/PromoMashUI/PromoMashCountryClient/.history/*
+
+# Miscellaneous
+/PromoMashUI/PromoMashCountryClient/.angular/cache
+/PromoMashUI/PromoMashCountryClient/.sass-cache/
+/PromoMashUI/PromoMashCountryClient/connect.lock
+/PromoMashUI/PromoMashCountryClient/coverage
+/PromoMashUI/PromoMashCountryClient/libpeerconnection.log
+/PromoMashUI/PromoMashCountryClient/testem.log
+/PromoMashUI/PromoMashCountryClient/typings
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Compiled output
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/dist
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/tmp
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/out-tsc
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/bazel-out
+
+# Node
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/node_modules/
+npm-debug.log
+yarn-error.log
+
+# IDEs and editors
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/.idea/
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/.project
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/.classpath
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/.c9/
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/*.launch
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/.settings/
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/*.sublime-workspace
+
+# Visual Studio Code
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/.vscode/*
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/!.vscode/settings.json
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/!.vscode/tasks.json
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/!.vscode/launch.json
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/!.vscode/extensions.json
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/.history/*
+
+# Miscellaneous
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/.angular/cache
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/.sass-cache/
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/connect.lock
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/coverage
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/libpeerconnection.log
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/testem.log
+/PromoMashUI/PromoMashRegisterClient/PromoMashRegisterClient/typings
